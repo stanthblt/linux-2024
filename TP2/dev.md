@@ -22,6 +22,4 @@
 
 🌞 **Packager l'application de chat room**
 
-```bash
 [https://github.com/stanthblt/chatroom](https://github.com/stanthblt/chatroom)
-```
