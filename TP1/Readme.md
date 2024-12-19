@@ -153,7 +153,7 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 🌞 **Ajouter votre utilisateur au groupe `docker`**
 
 ```bash
-sudo user mod -aG docker ${USER}
+sudo usermod -aG docker ${USER}
 su - ${USER}
 ```
 
